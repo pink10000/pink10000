@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pink10000&hide=jupyter%20notebook,javascript"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pink10000&hide=jupyter%20notebook,javascript,vim%20script"/>
